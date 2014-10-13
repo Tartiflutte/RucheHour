@@ -1,0 +1,14 @@
+Initialize engine version: 4.5.2f1 (9abb1b59b47c)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 660   (ID=0x11c0)
+    Vendor:   NVIDIA
+    VRAM:     1989 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Bastien\Documents\Ruche Hour\Ruche Hour_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Bastien\Documents\Ruche Hour\Ruche Hour_Data\Managed\UnityEngine.dll into Unity Child Domain
+- Completed reload, in  0.065 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
